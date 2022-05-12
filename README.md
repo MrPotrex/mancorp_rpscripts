@@ -5,7 +5,7 @@
   <summary><h2>MORE INFO</h2></summary>
 	Include:
 	
-	- PAUSE MENU (SERVER NAME | DISCORD | ID | NOMBRE)
+	- PAUSE MENU + ASSING KEYS (SERVER NAME | DISCORD | ID | NOMBRE)
 	- FAINTING (DEFAULT KEY 'U')	
 
 </details>
@@ -16,7 +16,7 @@
 	<summary><h2>MAS INFO</h2></summary>
 Incluye:
 	
-	- MENU DE PAUSA (NOMBRE DEL SERVER | DISCORD | ID | NOMBRE)
+	- MENU DE PAUSA + ASIGNACIÓN DE TECLAS (NOMBRE DEL SERVER | DISCORD | ID | NOMBRE)
 	- Desmayo (TECLA POR DEFECTO 'U')	
 	
 </details>
