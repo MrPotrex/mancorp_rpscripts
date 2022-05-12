@@ -1,5 +1,5 @@
 ![rpscripts](https://user-images.githubusercontent.com/32984490/167981395-59151f69-d153-4590-a20f-bc82321e224d.png)
-# Mancorp_RPscripts
+# Mancorp_RPScripts
 
 ## ENGLISH ⬇️
 > 100% necessary scripts for a Roleplay server
