@@ -1,6 +1,6 @@
 --CONFIGURACIÓN | CONFIG
 Config                  = {}
-Config.Locale          = 'en'
+Config.Locale          = 'en' -- en = English | es = Spanish
 
 -- PAUSE MENU
 Config.servername = 'SERVER NAME'
