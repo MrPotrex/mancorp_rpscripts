@@ -5,8 +5,8 @@
   <summary><h2>MORE INFO</h2></summary>
 	Include:
 	
-	- PAUSE MENU (NOMBRE DEL SERVER | DISCORD | ID | NOMBRE)
-	- Fainting (DEFAULT KEY 'U')	
+	- PAUSE MENU (SERVER NAME | DISCORD | ID | NOMBRE)
+	- FAINTING (DEFAULT KEY 'U')	
 
 </details>
 
@@ -20,6 +20,11 @@ Incluye:
 	- Desmayo (TECLA POR DEFECTO 'U')	
 	
 </details>
+
+## PREVIEWS | IMAGENES ⬇️
+PAUSE MENU AND ASSING KEYS | MENU DE PAUSA Y ASIGNACIÓN DE TECLAS
+![pausemenu](https://media.discordapp.net/attachments/973516122349531136/974403635922497606/unknown.png?width=960&height=100) 
+![pausemenu2](https://media.discordapp.net/attachments/973516122349531136/974405644457230356/unknown.png?width=960&height=100)
 
 ## OTHERS WORKS
 > Wheels Custom Pack - Addon [FIVEM READY] ▶️ https://github.com/MrPotrex/llantas
