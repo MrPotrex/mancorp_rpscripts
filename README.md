@@ -2,11 +2,12 @@
 # Mancorp_RPscripts
 
 ## ENGLISH ⬇️
-### 100% necessary scripts for a Roleplay server
+> 100% necessary scripts for a Roleplay server
 
 ## SPANISH ⬇️
-### Scripts necesarios al 100% para un servidor de Roleplay 
+> Scripts necesarios al 100% para un servidor de Roleplay
 
 ## OTHERS WORKS
-### Wheels Custom Pack - Addon [FIVEM READY] ▶️ https://github.com/MrPotrex/llantas
-### Template for your scripts ▶️ https://github.com/MrPotrex/Templates-FiveM
+> Wheels Custom Pack - Addon [FIVEM READY] ▶️ https://github.com/MrPotrex/llantas
+
+> Template for your scripts ▶️ https://github.com/MrPotrex/Templates-FiveM
