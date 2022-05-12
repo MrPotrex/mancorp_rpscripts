@@ -3,15 +3,22 @@ game 'gta5'
 lua54 'yes'
 
 autor 'Mancorp'
-name 'Nombre del script'
+name 'RP Scripts'
 description 'Scripts necesarios al 100% para un servidor de Roleplay | 100% necessary scripts for a Roleplay server '
 version '1.0.0'
 
 server_scripts {}
 
-client_scripts {}
+client_scripts {
+    '@es_extended/locale.lua',
+    'client/pausemenu.lua',
+    'locales/*.lua'
+}
 
-shared_scripts {}
+shared_scripts {
+    'cfg/cfg.lua',
+    
+}
 
 exports {}
 
