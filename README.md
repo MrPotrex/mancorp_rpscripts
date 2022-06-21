@@ -7,6 +7,7 @@
 	
 	- PAUSE MENU + ASSING KEYS (SERVER NAME | DISCORD | ID | NOMBRE)
 	- FAINTING (DEFAULT KEY 'U')	
+	- POINT (DEFAULT KEY 'B')
 
 </details>
 
@@ -18,6 +19,7 @@ Incluye:
 	
 	- MENU DE PAUSA + ASIGNACIÓN DE TECLAS (NOMBRE DEL SERVER | DISCORD | ID | NOMBRE)
 	- Desmayo (TECLA POR DEFECTO 'U')	
+	- Apuntar con dedo (TECLA POR DEFECTO 'B')
 	
 </details>
 
